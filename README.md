@@ -23,6 +23,8 @@ The challenge not only covered the basics of quantum computing but also highligh
 - **New Integrations**: Enhanced features for quantum experiments and AI integration.
 - **Utility-Scale Quantum Computing**: Demonstrated what it means to work with utility-scale quantum experiments, targeting those with 100 or more qubits.
 
+[Click here](https://github.com/qiskit-community/ibm-quantum-challenge-2024) to visit the GitHub repo of the challenge. 
+
 ## Contents
 
 - **`lab_0/`**: Directory containing my solutions to the basic setup lab.
